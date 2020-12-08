@@ -1,0 +1,13 @@
+C:\SANTHOSH\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\SANTHOSH\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\SANTHOSH\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\SANTHOSH\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\SANTHOSH\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\SANTHOSH\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\SANTHOSH\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\SANTHOSH\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\SANTHOSH\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\SANTHOSH\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\SANTHOSH\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\SANTHOSH\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\SANTHOSH\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
